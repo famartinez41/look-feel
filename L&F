@@ -29,7 +29,7 @@
    
       {
       "item":"home_keyboard_container_color",
-      "value":"#FFFFFF",
+      "value":"#f0ff33",
       "enable":true
       },
    
@@ -320,7 +320,7 @@
       {
       "item":"image_toolbar_name",
       "value":"image_toolbar",
-      "url":"https://configlookandfeel.s3.amazonaws.com/Mifel/mifel-200x200.png",
+      "url":"https://github.com/famartinez41/look-feel/blob/main/jordan.png?raw=true",
       "enable":true
       }
    ]
