@@ -5,7 +5,7 @@
    
       {
       "item":"home_operation_color",
-      "value":"#00294B",
+      "value":"#FFFFFF",
       "enable":true
       },
    
@@ -29,7 +29,7 @@
    
       {
       "item":"home_keyboard_container_color",
-      "value":"#00294B",
+      "value":"#FFFFFF",
       "enable":true
       },
    
