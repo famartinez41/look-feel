@@ -274,7 +274,15 @@
       "value": "image_stripe",
       "url": "https://static.thenounproject.com/png/645164-200.png",
       "enable": true
-    }
+    },
+ {
+ "item":
+"image_watermark",
+ "value":
+"image_watermark",
+ "url": "",
+ "enable": true
+ }
   ],
   "custom_images_enable": true,
   "custom_animations_enable": true,
