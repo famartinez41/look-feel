@@ -3,7 +3,7 @@
   "custom_ui": [
     {
       "item": "home_operation_color",
-      "value": "#FFFFFF",
+      "value": "#00AAA8",
       "enable": true
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#FFFFFF",
+      "value": "#AA2C00",
       "enable": true
     },
     {
