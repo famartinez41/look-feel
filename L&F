@@ -23,12 +23,12 @@
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#00294B",
+      "value": "#3EB21D",
       "enable": true
     },
     {
       "item": "home_keyboard_number_color",
-      "value": "#FFFFFF",
+      "value": "#3EB21D",
       "enable": true
     },
     {
