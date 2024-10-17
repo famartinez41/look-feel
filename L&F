@@ -1,9 +1,9 @@
 {
-  "enable": true,
+  "custom_ui_enable": true,
   "custom_ui": [
     {
       "item": "home_operation_color",
-      "value": "#00AAA8",
+      "value": "#00294B",
       "enable": true
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#3EB21D",
+      "value": "#00294B",
       "enable": true
     },
     {
@@ -252,16 +252,12 @@
       "enable": true
     },
     {
-      "item": "global_fourth_button_background_color",
-      "value": "#00294B",
-      "enable": true
-    },
-    {
       "item": "global_tertiary_button_background_color",
       "value": "#00294B",
       "enable": true
     }
   ],
+  "custom_images_enable": true,
   "custom_images": [
     {
       "item": "image_toolbar_name",
@@ -272,37 +268,34 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "https://static.thenounproject.com/png/645164-200.png",
+      "url": "https://th.bing.com/th/id/R.550fc84be478131b71f28bd17f9570f5?rik=yiVkKcJcIQEPrw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-9fwkfT0PS5w%2fTh4LQ5AkhCI%2fAAAAAAAAAAk%2f252cxKgEfxQ%2fs1600%2fver_114.jpg&ehk=lwhvNbWuhdw0oxbEuM33xQUfSPLo7cFPgzk6pTqUevU%3d&risl=&pid=ImgRaw&r=0",
       "enable": true
     },
- {
- "item":
-"image_watermark",
- "value":
-"image_watermark",
- "url": "https://media.es.wired.com/photos/650b2a2e72d73ca3bd5ef0cc/16:9/w_2560%2Cc_limit/Business-OpenAI-Dall-E-3-heart.jpg",
- "enable": true
- }
+    {
+      "item": "image_watermark",
+      "value": "image_watermark",
+      "url": "https://th.bing.com/th/id/OIP.mRgXGHCtyeA0NImcYFaVEQHaEN?rs=1&pid=ImgDetMain",
+      "enable": true
+    }
   ],
-  "custom_images_enable": true,
   "custom_animations_enable": true,
   "custom_animations": [
     {
       "item": "animation_i9000s",
       "value": "",
-      "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/6e2be2a3cc511bb280158d47fc0fb9bb/raw/3f2ca2c7718ce8a77daf451ac3a57f25b5d80aee/report-loco.json",
+      "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/9559cc6603ea22ff6ed9db620193697c/raw/ea1464811b6c040007d86181b8360d78abbb3d9b/print_report_mifel.json",
       "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/d6d18bcd40b4f67cdd9d975d355864c2/raw/77e09df9404da2f148dc6a91adac807ed62db2e9/insert_slide_approach_i9000s.json",
-      "url_remove": "",
-      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/6da9ff4e26cc2841cee7120e8b124efe/raw/ffed0078a306b79c22536176ee70677356e56c81/loader-loco.json",
+      "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/b7447c1afd17a680280f812f53d629a2/raw/75cd21f5cd2ddffa699884538930057059df496c/remove_card_i9000s_mifel.json",
+      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/6da9ff4e26cc2841cee7120e8b124efe/raw/23043e4511537e8cd7fa2ae1bce69aafeefcc296/loader-mifel.json",
       "enable": true
     },
     {
       "item": "animation_i9100",
       "value": "",
-      "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/9559cc6603ea22ff6ed9db620193697c/raw/629a66ccfcc6cf522ea042b9437738daa17f9113/print_report.json",
-      "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/965bb0dbf79c7a62ed7a59a432624213/raw/cb204b3c75f4375ebe1c87b4cb5d764d88adb0db/insert_slide_approach_i9100.json",
-      "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/2b0a6a8d8559035c9a25732b7d08bbec/raw/c79cf5bab9804aa03fcb4acd65c54cc4204c2ad4/remove_card_i9100.json",
-      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/025d584f0e7225d1e9a12dfaadb4889c/raw/00746e40571a191f1bba62f7ed888dde608f19ab/loader.json",
+      "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/a3c59686302a172def7dbb6064b92804/raw/5a0968f8244e4e8302eb2d02697e496382de4114/print_report.json",
+      "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/a1799d9751b9493d1e935a3531f4db65/raw/806c664b8d046c044ead05798f51f83be3561863/insert_slide_approach_i9100_mifel.json",
+      "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/01af1f378e62ff95f63df935d112d535/raw/18f92191cb6ae0aab561cc637a6a973d871c765a/remove_card_i9100_mifel.json",
+      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/025d584f0e7225d1e9a12dfaadb4889c/raw/3d652591291fe049eda560560828941873f7ede5/loader.json",
       "enable": true
     }
   ]
