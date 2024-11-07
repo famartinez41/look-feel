@@ -1,5 +1,5 @@
 {
-  "custom_ui_enable": true,
+  "enable": true,
   "custom_ui": [
     {
       "item": "home_operation_color",
@@ -256,4 +256,5 @@
       "value": "#00294B",
       "enable": true
     }
+	]
 }
